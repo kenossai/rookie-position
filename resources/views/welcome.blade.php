@@ -1,14 +1,11 @@
 <x-layout>
     <section>
-        <h3>Top Jobs</h3>
+        <x-section-heading>Top Jobs</x-section-heading>
 
-        <div class="p-4 bg-hite/5 rounded-xl flex flex-col text-center">
-                <div class="self-start text-sm">Laracast</div>
-                <div class="py-8 font-bold">
-                    <h3>Web Developer</h3>
-                    <p>Full Time - From $60,000</p>
-                </div>
-                <div class="">Laracast</div>
+        <div class="grid lg:grid-cols-3 gap-8 mt-6">
+            <x-job-card />
+            <x-job-card />
+            <x-job-card />
         </div>
     </section>
 </x-layout>
