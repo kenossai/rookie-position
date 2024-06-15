@@ -4,9 +4,9 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Rookie Jobs</title>
-    @vite(['resources/css/app.css', 'resources/js/app.js'])
+    @vite(['resources/css/app.css','resources/js/app.js'])
 </head>
-<body class="bg-black text-white">
+<body class="text-white bg-slate-950">
     <div class="px-10">
         <nav class="flex justify-between items-center py-4 border-b border-white/10">
             <div class="font-bold">
@@ -24,7 +24,7 @@
                 <button>Create Job</button>
             </div>
         </nav>
-        <main class="mt-10 max-w-[986px]">
+        <main class="mt-10 max-w-[986px] mx-auto">
             {{ $slot }}
         </main>
     </div>
