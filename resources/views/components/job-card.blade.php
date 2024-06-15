@@ -10,6 +10,6 @@
             <a href="#" class="bg-white/10 px-2 py-1 rounded-xl text-xs hover:bg-slate-600 transition-colors duration-300">Design</a>
             <a href="#" class="bg-white/10 px-2 py-1 rounded-xl text-xs hover:bg-slate-600 transition-colors duration-300">Cloud</a>
         </div>
-        <img src="https://img.freepik.com/free-vector/bird-colorful-logo-gradient-vector_343694-1365.jpg?size=338&ext=jpg&ga=GA1.1.1141335507.1718460000&semt=sph" alt="" class="rounded-xl w-10">
+        <img src="https://d3jmn01ri1fzgl.cloudfront.net/photoadking/webp_thumbnail/panache-news-logo-design-template-cmowys738581e9.webp" alt="" class="rounded-xl w-20">
     </div>
 </div>
