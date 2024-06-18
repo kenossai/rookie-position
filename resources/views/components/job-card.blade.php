@@ -1,7 +1,7 @@
-<div class="p-4 bg-white/5 rounded-xl flex flex-col text-center border-transparent hover:border-blue-800">
+<div class="p-4 bg-white/5 rounded-xl flex flex-col text-center border border-transparent hover:border-blue-800 cursor-pointer">
     <div class="self-start text-sm text-gray-400">Laracast</div>
     <div class="py-8 font-bold">
-        <h3>Web Developer</h3>
+        <h3 class="">Web Developer</h3>
         <p>Full Time - From $60,000</p>
     </div>
     <div class="flex justify-between items-center mt-auto">
