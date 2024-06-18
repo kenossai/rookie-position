@@ -7,8 +7,8 @@
         <p class="text-sm text-gray-400 mt-auto">Full Time - From $60,000</p>
     </div>
     <div class="">
-        <x-tags>Programming</x-tags>
-        <x-tags>Programming</x-tags>
-        <x-tags>Programming</x-tags>
+        <x-tags size="base">Frontend</x-tags>
+        <x-tags size="base">Backend</x-tags>
+        <x-tags size="base">Manager</x-tags>
     </div>
 </div>
