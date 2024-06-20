@@ -22,3 +22,4 @@
         <x-employer-logo :employer="$job->employer" :width="42" />
     </div>
 </x-panel>
+ 
